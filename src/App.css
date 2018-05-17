@@ -1,4 +1,5 @@
 .App {
+    align-items: center;
     text-align: center;
     font-size: 35px;
     margin-top: 20%;
@@ -16,4 +17,8 @@
 .Deadline-input {
     font-size: 25px;
     margin: 5px;
+}
+
+.Form {
+    display: inline;
 }
